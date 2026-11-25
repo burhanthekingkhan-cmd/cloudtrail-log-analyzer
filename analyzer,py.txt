@@ -1,0 +1,5 @@
+import json;
+d=json.load(open("test-log.json"));
+print(d["Records"] [0]
+["userldentity"] ["userName"] ,
+d["Records"] [0] ["eventName"])
